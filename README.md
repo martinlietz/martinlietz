@@ -3,10 +3,8 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=martinlietz" alt="Martin Lietz's Profile Views" />
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-WalissonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walissonsilva/)](https://www.linkedin.com/in/walissonsilva/) 
-[![Gmail Badge](https://img.shields.io/badge/-walissonsilva10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walissonsilva10@gmail.com)](mailto:walissonsilva10@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/Blog-walissonsilva.com-blue)](https://walissonsilva.com/blog)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/walissonsilva)](https://youtube.com/c/walissonsilva)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-WalissonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/martinlietz/](https://www.linkedin.com/in/martin-lietz-pmp-mba-black-belt-/))]([https://www.linkedin.com/in/walissonsilva/](https://www.linkedin.com/in/martin-lietz-pmp-mba-black-belt-/)) 
+[![Gmail Badge](https://img.shields.io/badge/flieger.martin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flieger.martin@gmail.com)](mailto:flieger.martin@gmail.com)
 
 <!--![Martin Lietz's github stats](https://github-readme-stats.vercel.app/api?username=martinlietz&show_icons=true&theme=tokyonight)-->
 
@@ -14,7 +12,7 @@
 
 💻 &nbsp;Desenvolvedor Web Full Stack  
 👨‍🏫 &nbsp;Professor de Programação  
-🆙 &nbsp;Cerficado pela AWS (Cloud Practitioner)  
+<!--🆙 &nbsp;Cerficado pela AWS (Cloud Practitioner)  -->
 📊 &nbsp;Engenheiro em Engenharia Elétrotécnica (ênfase em tecnologias de informação)  
 ⚡ &nbsp;MBA em Gerenciamento de projetos
 🎥 &nbsp;PMP - Project Management Professional since 2017
