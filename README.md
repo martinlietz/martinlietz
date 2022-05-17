@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋✨
 
+- 🔭 I’m currently working on a data-science project
+- 🌱 I’m currently learning kaggle machine learning
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with so many things
+- 💬 Ask me about databases, programming
+- 📫 How to reach me: flieger.martin**delete before send**@gmail.com
+- ⚡ Fun fact: A 
 <!--
 **martinlietz/martinlietz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
