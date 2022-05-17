@@ -3,7 +3,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=martinlietz" alt="Martin Lietz's Profile Views" />
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Martin Lietz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/martinlietz/](https://www.linkedin.com/in/martin-lietz-pmp-mba-black-belt-/))]([https://www.linkedin.com/in/walissonsilva/](https://www.linkedin.com/in/martin-lietz-pmp-mba-black-belt-/)) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-MartinLietz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/martinlietz/](https://www.linkedin.com/in/martin-lietz-pmp-mba-black-belt-/))]([https://www.linkedin.com/in/walissonsilva/](https://www.linkedin.com/in/martin-lietz-pmp-mba-black-belt-/)) 
 [![Gmail Badge](https://img.shields.io/badge/flieger.martin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flieger.martin@gmail.com)](mailto:flieger.martin@gmail.com)
 
 <!--![Martin Lietz's github stats](https://github-readme-stats.vercel.app/api?username=martinlietz&show_icons=true&theme=tokyonight)-->
@@ -11,10 +11,10 @@
 ## About me
 
 💻 &nbsp;Desenvolvedor Web Full Stack  
-👨‍🏫 &nbsp;Professor de Programação  
-<!--🆙 &nbsp;Cerficado pela AWS (Cloud Practitioner)  -->
+<!--👨‍🏫 &nbsp;Professor de Programação  
+🆙 &nbsp;Cerficado pela AWS (Cloud Practitioner)  -->
 📊 &nbsp;Engenheiro em Engenharia Elétrotécnica (ênfase em tecnologias de informação)  
-⚡ &nbsp;MBA em Gerenciamento de projetos
+⚡ &nbsp;MBA em Gerenciamento de projetos   
 🎥 &nbsp;PMP - Project Management Professional since 2017
 
 <!--
@@ -28,20 +28,14 @@
 
 ### :wrench: Tools and environments
 
-<!-- GIT -->
-<a href="#">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-<!-- C# -->
-<a href="#">
-      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-</a>
-<!-- SQL -->
-<a href="#">
-      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-</a>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-
+### :computer: Machine Learning
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  
 
 ### :computer: Front-End Development
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -63,10 +57,6 @@
 ![postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-
-### 🧪 Testing
-
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 - 🔭 I’m currently working on a data-science project
 - 🌱 I’m currently learning kaggle machine learning
 - 👯 I’m looking to collaborate on open source projects
