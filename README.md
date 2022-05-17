@@ -3,7 +3,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=martinlietz" alt="Martin Lietz's Profile Views" />
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-WalissonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/martinlietz/](https://www.linkedin.com/in/martin-lietz-pmp-mba-black-belt-/))]([https://www.linkedin.com/in/walissonsilva/](https://www.linkedin.com/in/martin-lietz-pmp-mba-black-belt-/)) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Martin Lietz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/martinlietz/](https://www.linkedin.com/in/martin-lietz-pmp-mba-black-belt-/))]([https://www.linkedin.com/in/walissonsilva/](https://www.linkedin.com/in/martin-lietz-pmp-mba-black-belt-/)) 
 [![Gmail Badge](https://img.shields.io/badge/flieger.martin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flieger.martin@gmail.com)](mailto:flieger.martin@gmail.com)
 
 <!--![Martin Lietz's github stats](https://github-readme-stats.vercel.app/api?username=martinlietz&show_icons=true&theme=tokyonight)-->
