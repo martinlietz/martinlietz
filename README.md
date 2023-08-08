@@ -17,6 +17,9 @@
 ⚡ &nbsp;MBA em Gerenciamento de projetos   
 🎥 &nbsp;PMP - Project Management Professional since 2017
 
+🔋 batteries included.
+
+
 <!--
 ## Experiência Profissional
 
